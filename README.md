@@ -13,3 +13,5 @@ Now that we have gone over what variables are, we will go over what functions ar
 Try the following:
 
 * create a new javascript file that prints out your name, your age, and then, your age multiplied by 3.
+
+Use the following for reasearch if you have trouble googling https://www.teaching-materials.org/javascript/#lesson1
